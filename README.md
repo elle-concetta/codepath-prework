@@ -8,6 +8,6 @@ Introductory pre-work for iOS mobile application development.
 
 
 ### Brainstorming Apps
-- Example App: EggBun
-- Example App: WhatsApp
-- Example App: Wanderlog
+- Example App – EggBun: The uniqueness and design of the overall application.
+- Example App – WhatsApp: The application is very convenient and simple.
+- Example App – Wanderlog: The placement of everything on the application.
